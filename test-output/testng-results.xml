@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14788" started-at="2019-06-21T02:30:34Z" finished-at="2019-06-21T02:30:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14788" started-at="2019-06-21T02:30:34Z" finished-at="2019-06-21T02:30:48Z">
+      <class name="com.syntax.testcases.LoginExcelTest">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="generateReport" is-config="true" duration-ms="261" started-at="2019-06-21T02:30:34Z" finished-at="2019-06-21T02:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="setUp" is-config="true" duration-ms="3818" started-at="2019-06-21T02:30:34Z" finished-at="2019-06-21T02:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="login" duration-ms="3065" started-at="2019-06-21T02:30:38Z" data-provider="getData" finished-at="2019-06-21T02:30:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://30daytrial-trials65.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FfC1HrvQ6@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="tearDown" is-config="true" duration-ms="116" started-at="2019-06-21T02:30:41Z" finished-at="2019-06-21T02:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="setUp" is-config="true" duration-ms="2461" started-at="2019-06-21T02:30:41Z" finished-at="2019-06-21T02:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="login" duration-ms="4245" started-at="2019-06-21T02:30:44Z" data-provider="getData" finished-at="2019-06-21T02:30:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://hkal6206-trials65.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[XsWIb@cT45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="tearDown" is-config="true" duration-ms="124" started-at="2019-06-21T02:30:48Z" finished-at="2019-06-21T02:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="flushReport()[pri:0, instance:com.syntax.testcases.LoginExcelTest@6d4b1c02]" name="flushReport" is-config="true" duration-ms="2" started-at="2019-06-21T02:30:48Z" finished-at="2019-06-21T02:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- com.syntax.testcases.LoginExcelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
